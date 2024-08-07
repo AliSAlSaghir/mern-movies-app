@@ -43,11 +43,12 @@
 
 Create a `.env` file in the root directory and add the following environment variables:
 
-````plaintext
+```plaintext
 PORT
 MONGO_URI
 NODE_ENV
 JWT_SECRET
+```
 
 ### Install Dependencies
 
@@ -55,6 +56,7 @@ Install both backend and frontend dependencies with the following command:
 
 ```bash
 npm install
+```
 
 ### Running the Application
 
@@ -64,6 +66,7 @@ To start the backend server, use:
 
 ```bash
 npm run backend
+```
 
 ### Start the Frontend Server
 
@@ -71,11 +74,13 @@ To start the frontend server, use:
 
 ```bash
 npm run frontend
+```
 
 To run both the backend and frontend simultaneously, use the following command:
 
 ```bash
 npm run fullstack
+```
 
 ### API Endpoints
 
@@ -125,5 +130,3 @@ This project is licensed under the [MIT License](LICENSE) - see the LICENSE file
 ### Acknowledgements
 
 Thanks to the creators of the MERN stack and Redux Toolkit Query for their fantastic tools and libraries.
-
-````
