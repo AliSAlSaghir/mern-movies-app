@@ -115,7 +115,7 @@ npm run fullstack
 - **`GET /api/v1/users/profile`** - Get current user details
 - **`PUT /api/v1/users/profile`** - Update current user
 
-#### User API
+#### Upload API
 
 - **`POST /api/v1/uploads`** - Upload an image
 
